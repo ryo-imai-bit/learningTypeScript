@@ -1,0 +1,26 @@
+{
+  "name": "learningtypescript",
+  "version": "1.0.0",
+  "description": "learning TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryo-imai-bit/learningTypeScript.git"
+  },
+  "author": "ryo-imai-bit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryo-imai-bit/learningTypeScript/issues"
+  },
+  "homepage": "https://github.com/ryo-imai-bit/learningTypeScript#readme",
+  "devDependencies": {
+    "@types/node": "^15.12.4",
+    "typescript": "^4.3.4"
+  },
+  "dependencies": {
+    "eslint": "^7.29.0"
+  }
+}
