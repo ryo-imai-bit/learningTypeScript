@@ -18,9 +18,12 @@
   "homepage": "https://github.com/ryo-imai-bit/learningTypeScript#readme",
   "devDependencies": {
     "@types/node": "^15.12.4",
+    "@typescript-eslint/eslint-plugin": "^4.27.0",
+    "@typescript-eslint/parser": "^4.27.0",
+    "eslint": "^7.29.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.23.4",
+    "ts-node": "^10.0.0",
     "typescript": "^4.3.4"
-  },
-  "dependencies": {
-    "eslint": "^7.29.0"
   }
 }
